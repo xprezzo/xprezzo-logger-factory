@@ -1,3 +1,7 @@
+1.1.2 / 2022-05-12
+==================
+  * Fix incorrect repository link in package.json
+
 1.1.1 / 2022-05-12
 ==================
 
