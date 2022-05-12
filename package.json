@@ -1,8 +1,8 @@
 {
   "name": "xprezzo-logger-factory",
   "description": "HTTP request logger middleware for xprezzo",
-  "version": "1.1.0",
-  "author": "Ben Ajenoui <info@seohero.io>",
+  "version": "1.1.1",
+  "author": "Cloudgen Wong <cloudgen.wong@gmail.com>",
   "license": "MIT",
   "keywords": [
     "http",
@@ -13,23 +13,22 @@
   "repository": "xprezzo/xprezzo-logger",
   "dependencies": {
     "depd": "~2.0.0",
-    "xprezzo-basic-auth": "1.1.0",
-    "xprezzo-debug": "1.1.0",
-    "xprezzo-on-finished": "1.1.0",
-    "xprezzo-on-headers": "1.1.0"
+    "xprezzo-basic-auth": "1.1.3",
+    "xprezzo-debug": "1.1.2",
+    "xprezzo-on-finished": "1.1.2",
+    "xprezzo-on-headers": "1.1.3"
   },
   "devDependencies": {
-    "eslint": "7.8.1",
-    "eslint-config-standard": "14.1.1",
-    "eslint-plugin-import": "2.22.0",
-    "eslint-plugin-markdown": "1.0.2",
+    "eslint": "8.15.0",
+    "eslint-config-standard": "17.0.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-markdown": "2.2.1",
     "eslint-plugin-node": "11.1.0",
-    "eslint-plugin-promise": "4.2.1",
-    "eslint-plugin-standard": "4.0.1",
-    "mocha": "8.1.3",
-    "nyc": "15.0.1",
+    "eslint-plugin-promise": "6.0.0",
+    "mocha": "10.0.0",
+    "nyc": "15.1.0",
     "split": "1.0.1",
-    "supertest": "4.0.2"
+    "supertest": "6.1.0"
   },
   "files": [
     "LICENSE",
